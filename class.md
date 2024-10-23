@@ -2,7 +2,7 @@
 October 21st 2024
 this is mainly because visual studio is really weird (so is this class)
 ---
-October 23rd 2024
+# October 23rd 2024
 # MINI
 
 given 3 topics, we are going to provide information on a given topic to a uninformed reader.
@@ -17,7 +17,7 @@ given 3 topics, we are going to provide information on a given topic to a uninfo
 		-Somewhere around 6 strong paragraphs
 		-or write a Preci for each article, with 2 paragraphs for each article.
 ## Part C:
-	
+
 	This is a **summary**, where I as a writer am able to utilize my own opinion and be a little less objective in my retelling of the Author's articles
 	-give a professional opinion of the topic, Why do I think my takeaway is more important than the author's
 	-make sure to write for a uninformed reader
@@ -67,8 +67,8 @@ A very large and common library
 
 ## QUICK INTRO to VSstudio and .NET
 ### First thing is to find the correct VSstudio
-Microsoft Visual Studio Community 2022 (64-bit) - Current
-Version 17.11.0
+	Microsoft Visual Studio Community 2022 (64-bit) - Current
+	Version 17.11.0
 -Sign in with my IU id.
 ### Config Operations:
 	Make sure to go to Tools and Features. Designate the workloads I need to have.
@@ -79,4 +79,4 @@ Go to Project and Solutions -> Locations +
 	-Project Location
 	-Project Template location
 	-User Item Template Location
-		--(E:\A290DOTNET)
+		```E:\A290DOTNET```
