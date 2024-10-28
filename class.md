@@ -80,3 +80,19 @@ Go to Project and Solutions -> Locations +
 	-Project Template location
 	-User Item Template Location
 		```E:\A290DOTNET```
+---
+# October 28th 2024
+# program, or a "distributable component"
+### Object Basics
+-Forms.
+-Controls
+	-visible-button.
+	-standardizaed OpenFileDialog for Windows.
+All objects have properties.
+(Good practive is to pick a naming convention.)
+Make sure to select the correct data type
+	eg: Double takes up twice as much mem as a float
+
+We are more than likely going to be programming from a event driven perspective. 
+	-either objects, enviroment or human events
+
