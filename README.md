@@ -1,5 +1,5 @@
 # a290-dotnet
-a290-fa2024-7week
+https://legacy.cs.indiana.edu/classes/a290-dotnet/index.html
 # Project Ideas:
   -Markdown Editor or something similar
   -Tournament Maker
