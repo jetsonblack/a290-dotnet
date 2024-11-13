@@ -1,5 +1,12 @@
 # a290-dotnet
 a290-fa2024-7week
+# Project Ideas:
+  -Markdown Editor or something similar
+  -Tournament Maker
+  -pinboard/list
+  -
+
+
 
 # This is a simple repo to keep things sync'd between home system and lab system    
 monday october 21 - i want to play volleyball
